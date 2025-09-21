@@ -3,7 +3,7 @@
 ![Library](https://img.shields.io/badge/Library-Pandas-150458)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
-This repository contains my practice notebooks and scripts focused on mastering data manipulation and analysis with Pandas, the premier data analysis library in Python. I believe that proficiency in data wrangling—cleaning, transforming, and preparing data—is a non-negotiable skill for any work in machine learning and AI.
+This repository contains my practice notebooks and scripts focused on mastering data manipulation and analysis with Pandas, the premier data analysis library in Python. I believe that proficiency in data wrangling cleaning, transforming, and preparing data is a non negotiable skill for any work in machine learning and AI.
 
 The files here document my hands-on practice with the core functionalities of Pandas, from reading data files to performing complex aggregations.
 
